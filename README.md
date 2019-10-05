@@ -6,7 +6,7 @@ Sudoku Solver is a C executable. It resolves sudoku grids in a command line or a
 
 ## Requirements
 
-Building the Raytracer executable requires the following tools:
+Building the Sudoku Solver executable requires the following tools:
 - X.org graphic system (see [www.x.org](https://www.x.org/wiki/))
 ```bash
 sudo apt-get install xorg
