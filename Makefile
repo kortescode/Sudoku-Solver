@@ -52,7 +52,4 @@ re	:	fclean all
 lib	:
 		@make -C $(LIB)
 
-norme	:
-		/u/all/astek/public/norme $(SRCS)
-
-.PHONY:		all clean fclean re lib norme
+.PHONY:		all clean fclean re lib
