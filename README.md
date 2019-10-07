@@ -2,7 +2,7 @@
 
 Sudoku Solver is a C executable. It resolves sudoku grids in a command line or a graphic way from a text description.
 
-![Sudoku Solver preview](imgs/preview.gif)
+<img src="imgs/preview.gif" width="500" title="Sudoku Solver preview">
 
 ## Requirements
 
