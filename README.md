@@ -27,7 +27,6 @@ make all
 ## Usage
 
 To solve a sudoku, it requires a sudoku grid to be entered in the standard input.
-
 ```bash
 ./sudoki-bi [-c [-a] | -g] < [SUDOKU-GRID-FILE] 
 ```
