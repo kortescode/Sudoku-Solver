@@ -1,4 +1,4 @@
-# Sudoku Solver
+# Sudoku Solver [![Build Status](https://travis-ci.org/kortescode/Sudoku-Solver.svg?branch=master)](https://travis-ci.org/kortescode/Sudoku-Solver)
 
 Sudoku Solver is a C executable. It resolves sudoku grids in a command line or a graphic way from a text description.
 
